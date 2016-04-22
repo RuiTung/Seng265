@@ -1,0 +1,9 @@
+-------------------- test load_quiz_log
+Answer: 2 python/while_continue_1 0 {'$y0': '9'} 20
+Answer: 2 python/while_continue_1 0 {'$y0': '9'} 20
+Answer: 2 python/while_continue_1 0 {'$y0': '9'} 20
+Answer: 2 python/while_continue_1 0 {'$y0': '9'} 20
+-------------------- test compute_question_count
+None
+-------------------- test compute_mark_list
+None

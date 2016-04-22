@@ -1,0 +1,9 @@
+-------------------- test load_quiz_log
+Answer: 0 python/min3_bull_10 1 {'$x1': '1', '$x0': '0'} 1444959206
+Answer: 0 python/min3_bull_10 1 {'$x1': '1', '$x0': '0'} 1444959206
+Answer: 0 python/min3_bull_10 1 {'$x1': '1', '$x0': '0'} 1444959206
+Answer: 0 python/min3_bull_10 1 {'$x1': '1', '$x0': '0'} 1444959206
+-------------------- test compute_question_count
+None
+-------------------- test compute_mark_list
+None
